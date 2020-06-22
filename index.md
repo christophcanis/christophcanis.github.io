@@ -7,3 +7,5 @@ Mickey Mouse ist ein fiktiver Charakter, der seit dem Jahr 1928 existiert und vo
   * Disneyland Paris
   * Disney World
   * ...
+Mickey Mouse sagt:
+> Fairy tales are for everyone
