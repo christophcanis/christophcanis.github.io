@@ -9,3 +9,5 @@ Mickey Mouse ist ein fiktiver Charakter, der seit dem Jahr 1928 existiert und vo
   * ...
 Mickey Mouse sagt:
 > Fairy tales are for everyone
+
+<img src="https://www.publicdomainpictures.net/pictures/160000/velka/mickey-mouse-1457901162I5o.jpg"/>
